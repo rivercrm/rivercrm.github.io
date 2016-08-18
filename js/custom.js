@@ -102,7 +102,7 @@
 
 		
 		//parallax
-        if ($('.parallax').length)
+        if ($('.parallax-voc').length)
         {
 			$(window).stellar({
 				responsive:true,
