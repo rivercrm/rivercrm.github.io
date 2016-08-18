@@ -349,7 +349,7 @@ Navigation
 }
 
 .navbar.navbar-custom.top-nav-collapse .navigation {
-	padding-bottom: 10px;
+	/* padding-bottom: 10px; */
 }
 
 .navbar-custom.top-nav-collapse ul.nav li a {
@@ -625,7 +625,7 @@ hr.bold {
 a.anchor {
     display: block;
     position: relative;
-    top: -60px;
+    top: -80px;
     visibility: hidden;
 }
 
@@ -719,7 +719,7 @@ a.anchor {
 
 .text-light {
 	color: #fff;
-	text-shadow: 1px 1px #777;
+	text-shadow: 1px 1px #aaa;
 }
 
 
